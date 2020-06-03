@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://francomac:contactK8685@contactkeeper-gamla.mongodb.net/test?retryWrites=true&w=majority"
+}
